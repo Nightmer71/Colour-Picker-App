@@ -1,0 +1,1 @@
+A Colour Picker project in React using the useState() and onChange() hooks, where we can choose a colour that we want with an input element, and in a div element we can see the colour that we chose, and it's hexadecimal code.
